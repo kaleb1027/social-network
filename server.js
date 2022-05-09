@@ -2,7 +2,7 @@ const express = require('express');
 const db = require('./config/connection');
 const routes = require('./routes');
 
-//why did i have to use this?
+
 const PORT = process.env.PORT || 3001;
 const app = express();
 

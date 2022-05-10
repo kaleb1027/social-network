@@ -2,7 +2,7 @@
 
 ## Description
 
-  This project is a backend setup for a mock social network API, and uses mongoDB for databases in conjuction with the "mongoose" package.
+  This project is a backend setup for a mock social network API, and uses mongoDB for databases in conjuction with the "mongoose" node package.
 
   ## Table of Contents
   - [Installation](#installation)
